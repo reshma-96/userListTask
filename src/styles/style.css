@@ -1,0 +1,23 @@
+.center {
+  text-align: center;
+  margin: 40px;
+}
+
+div .contain-new {
+  position: relative;
+  bottom: -10px;
+  border-color: green !important;
+  border-style: solid;
+  margin: 20px;
+  top: -15px;
+}
+
+.external {
+  border-color: green !important;
+  border-style: solid;
+  margin: 30px;
+}
+
+.rowContain {
+  padding: 20px;
+}
